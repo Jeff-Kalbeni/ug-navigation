@@ -9,7 +9,7 @@
 //     }
 // }
 
-public class SortingRoutes {
+public class Sortingroute {
 
     public void sortRoutes(Route[] routes) {
         quickSort(routes, 0, routes.length - 1);

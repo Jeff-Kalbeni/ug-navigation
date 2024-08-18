@@ -155,7 +155,7 @@ public class Main {
         System.out.println("Shortest path using Dijkstra: " + path + " with distance: " + distance + " meters.");
         displayArrivalTime(distance);
 
-        AStarAlgorithm aStar = new AStarAlgorithm(graph);
+        AStar_Algorithm aStar = new AStar_Algorithm(graph);
         List<String> aStarPath = aStar.findShortestPath(start, goal);
         int aStarDistance = calculateTotalDistance(graph, aStarPath);
         System.out.println("Shortest path using A*: " + aStarPath + " with distance: " + aStarDistance + " meters.");

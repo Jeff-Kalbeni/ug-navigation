@@ -1,9 +1,9 @@
 import java.util.*;
 
-public class AStarAlgorithm {
+public class AStar_Algorithm {
     private final Graph graph;
 
-    public AStarAlgorithm(Graph graph) {
+    public AStar_Algorithm(Graph graph) {
         this.graph = graph;
     }
 

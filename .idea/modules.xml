@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ug-navigation.iml" filepath="$PROJECT_DIR$/ug-navigation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UG Navigate.iml" filepath="$PROJECT_DIR$/UG Navigate.iml" />
     </modules>
   </component>
 </project>
